@@ -1,0 +1,45 @@
+psd to html/  psd to  bootstrap
+psd to html responsive with bootstrap
+
+
+html, css. bootstrap, js/jq
+
+
+
+pt sans bold,regular
+
+
+
+
+
+font-family: 'PT Sans Caption', sans-serif;
+color:8989
+ #5555
+ yello  :#fcdb00
+--------------
+xxl   1440  -1600   -1800  -2100
+xl    1024
+lg    1024
+
+
+
+md   768
+
+
+sm   576
+col   320
+
+
+header----------------
+
+
+          xxl/xl/lg            md        sm/col
+       22                   22        
+
+menu
+
+
+slider-------------------
+
+
+xxl/xl/lg          md             sm/col
